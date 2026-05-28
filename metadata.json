@@ -1,0 +1,6 @@
+{
+  "name": "SanaLink: Conectando Saúde",
+  "description": "Plataforma de impacto social que conecta voluntários de saúde a pacientes vulneráveis para o ODS 3 (Saúde e Bem-estar). Inclui gerador de projeto ABNT, diagramas UML interativos e simulador de pitches para o Shark Tank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
